@@ -1,0 +1,10 @@
+Package: LinuxDB
+Version: 2.0.1
+Selection: main/utils
+Priority: extra
+Architecture: amd64
+Depends: python3, python3-pyqt5, python3-serial
+Installed-Size: 51200
+Maintainer: lxdb(Denys Konovalov) <linuxdb.service@gmail.com>
+Homepage: lxdbdatabase.wordpress.com
+Description: A Linux database tool.

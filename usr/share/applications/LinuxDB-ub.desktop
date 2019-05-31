@@ -1,0 +1,17 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+
+Name=LinuxDB
+
+Comment=Linux Database Manager v2.0
+
+Exec=python3 /opt/linuxdb/LinuxDBv2.0.py
+
+Terminal=true
+
+Icon=/opt/linuxdb/LinuxDB.png
+
+Type=Application
+
+Categories=System;Utility;
